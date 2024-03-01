@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Shopping_Website/static/css/main.0a3c65fd.css",
+    "main.js": "/Shopping_Website/static/js/main.123d5454.js",
+    "static/js/453.470358f0.chunk.js": "/Shopping_Website/static/js/453.470358f0.chunk.js",
+    "static/media/arrival-bg.png": "/Shopping_Website/static/media/arrival-bg.dfd05e88df3057f38a2b.png",
+    "static/media/11.png": "/Shopping_Website/static/media/11.9bad56c3bc0f803f019b.png",
+    "static/media/12.png": "/Shopping_Website/static/media/12.46c9364d4052045989cf.png",
+    "static/media/10.png": "/Shopping_Website/static/media/10.b4a7f83f41c62754b19a.png",
+    "static/media/20.png": "/Shopping_Website/static/media/20.08ef4b9230191cff20d8.png",
+    "static/media/13.png": "/Shopping_Website/static/media/13.4c330db116c64ba91adb.png",
+    "static/media/15.png": "/Shopping_Website/static/media/15.4c330db116c64ba91adb.png",
+    "static/media/7.png": "/Shopping_Website/static/media/7.12c637c561d559645907.png",
+    "static/media/1.png": "/Shopping_Website/static/media/1.87118ef095d8e115b4bf.png",
+    "static/media/4.png": "/Shopping_Website/static/media/4.10f04d37b3700e0788ac.png",
+    "static/media/6.png": "/Shopping_Website/static/media/6.6eb8d7691e6df582f9a2.png",
+    "static/media/21.png": "/Shopping_Website/static/media/21.1d3bc1b96a19212c2c78.png",
+    "static/media/5.png": "/Shopping_Website/static/media/5.728a11aebf82795c3ef1.png",
+    "static/media/slider-bg.jpg": "/Shopping_Website/static/media/slider-bg.7732952e4d7c2802ba79.jpg",
+    "static/media/19.png": "/Shopping_Website/static/media/19.d1f9ee52cf220c44c41d.png",
+    "static/media/14.png": "/Shopping_Website/static/media/14.365248eafec51d5eaa06.png",
+    "static/media/8.png": "/Shopping_Website/static/media/8.86a9f866c217b9a95708.png",
+    "static/media/9.png": "/Shopping_Website/static/media/9.e2e096d968517e32718e.png",
+    "static/media/17.png": "/Shopping_Website/static/media/17.e91c24c1c27e67750d2e.png",
+    "static/media/18.png": "/Shopping_Website/static/media/18.8fae28b0ae5260a43ac7.png",
+    "static/media/16.png": "/Shopping_Website/static/media/16.37d438bc519230b9ddb9.png",
+    "static/media/2.webp": "/Shopping_Website/static/media/2.5828a0fe3c77468b8726.webp",
+    "static/media/logo.png": "/Shopping_Website/static/media/logo.62fd1ebe7515af85e62c.png",
+    "static/media/3.webp": "/Shopping_Website/static/media/3.59c9a0eba54726d9fc95.webp",
+    "index.html": "/Shopping_Website/index.html",
+    "main.0a3c65fd.css.map": "/Shopping_Website/static/css/main.0a3c65fd.css.map",
+    "main.123d5454.js.map": "/Shopping_Website/static/js/main.123d5454.js.map",
+    "453.470358f0.chunk.js.map": "/Shopping_Website/static/js/453.470358f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a3c65fd.css",
+    "static/js/main.123d5454.js"
+  ]
+}
