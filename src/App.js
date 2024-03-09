@@ -1,5 +1,6 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Navbar } from "./components/navbar";
+
 import { Home } from "./pages/Home/Home";
 import { About } from "./pages/About/About";
 import { Shop } from "./pages/shop/shop";
@@ -11,17 +12,16 @@ function App() {
   return (
     <div className="App">
       <ShopContextProvider>
-        <Router>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
           <Navbar />
-          
           <Routes>
-          <Route path="/" element={<Home />} />
+            <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/shop" element={<Shop />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/cart" element={<Cart />} />
           </Routes>
-        </Router>
+        </BrowserRouter>
       </ShopContextProvider>
     </div>
   );
